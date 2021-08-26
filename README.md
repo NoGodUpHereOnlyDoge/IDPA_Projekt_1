@@ -4,7 +4,7 @@ Projekt Autoren: Kris Prugarewicz, Lars Baumgartner, Merlin van der Kolk, Romain
 
 Code V1.1
 Changelog:
-- MVC Model implrmentiert
+- MVC Model implementiert
 - Files im Code verlinkt
 - Programm noch nicht startbar
 
