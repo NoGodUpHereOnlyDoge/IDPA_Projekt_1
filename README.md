@@ -6,4 +6,4 @@ UI Wireframe Design V2.1
 Changelog:
 - Spinner zu TextField gewechselt
 - Kursanzeige hat 2 Label Ausgangswährung zu CHF und Ausgangswährung zu Zielwährung
--3 Output Label anstatt Einem, Umgerechneter Betrag in Ausgangswährung, Umgerechneter Betrag in CHF, Umgerechneter Betrag in Zielwährung.
+- 3 Output Label anstatt Einem, Umgerechneter Betrag in Ausgangswährung, Umgerechneter Betrag in CHF, Umgerechneter Betrag in Zielwährung.
