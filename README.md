@@ -4,9 +4,9 @@ Projekt Autoren: Kris Prugarewicz, Lars Baumgartner, Merlin van der Kolk, Romain
 
 Code V1.1
 Changelog:
--MVC Model implrmentiert
--Files im Code verlinkt
--Programm noch nicht startbar
+- MVC Model implrmentiert
+- Files im Code verlinkt
+- Programm noch nicht startbar
 
 UI Design FXML V2.1
 Changelog:
