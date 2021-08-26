@@ -7,18 +7,18 @@
 <?import javafx.scene.control.TitledPane?>
 <?import javafx.scene.layout.AnchorPane?>
 
-<TitledPane animated="false" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" text="Währungsumrechner " xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8.0.171">
+<TitledPane animated="false" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" text="Währungsumrechner " xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ch.bbbaden.idpa.ViewController">
   <content>
     <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="374.0" prefWidth="454.0">
          <children>
-            <ComboBox layoutX="56.0" layoutY="115.0" prefWidth="150.0" />
-            <ComboBox layoutX="56.0" layoutY="214.0" prefWidth="150.0" />
-            <Spinner layoutX="56.0" layoutY="65.0" prefHeight="25.0" prefWidth="69.0" />
-            <Label layoutX="142.0" layoutY="69.0" text="&quot;Ausgewählte Währung&quot;" />
+            <ComboBox fx:id="fromCurrency" layoutX="56.0" layoutY="115.0" prefWidth="150.0" />
+            <ComboBox fx:id="toCurrency" layoutX="56.0" layoutY="214.0" prefWidth="150.0" />
+            <Spinner fx:id="amount" layoutX="56.0" layoutY="65.0" prefHeight="25.0" prefWidth="69.0" />
+            <Label fx:id="displayFromCurrency" layoutX="142.0" layoutY="69.0" text="Ausgewählte Währung" />
             <Label layoutX="55.0" layoutY="262.0" text="Output:" />
-            <Label layoutX="55.0" layoutY="170.0" text="Kursanzeige" />
-            <Button layoutX="476.0" layoutY="318.0" mnemonicParsing="false" text="Umrechnen!" />
-            <Label layoutX="105.0" layoutY="262.0" text="Umgerechneter Betrag" />
+            <Label fx:id="exchangeRate" layoutX="55.0" layoutY="170.0" text="Kursanzeige" />
+            <Button fx:id="calculate" layoutX="476.0" layoutY="318.0" mnemonicParsing="false" text="Umrechnen!" />
+            <Label fx:id="calculatedAmount" layoutX="105.0" layoutY="262.0" text="Umgerechneter Betrag" />
          </children></AnchorPane>
   </content>
 </TitledPane>
