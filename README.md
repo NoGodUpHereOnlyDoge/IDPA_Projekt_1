@@ -7,7 +7,7 @@ Code V1.1
 Changelog:
 - MVC Model implementiert
 - Files im Code verlinkt
-- Programm noch nicht startbar
+- Programm startbar
 
 UI Design FXML V2.1
 Changelog:
