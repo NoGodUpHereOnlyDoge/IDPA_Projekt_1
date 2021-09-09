@@ -11,9 +11,9 @@ Changelog:
 - JDK ist jetzt von default aus 1.8
 - Code hat keine errors mehr, ist startbar
 
-<br></br>
+
 ******************************************************************************************************************************************
-<br></br>
+
 
 26.08.2021 Commits Changelog
 
