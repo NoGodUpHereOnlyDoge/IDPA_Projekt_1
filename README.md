@@ -5,11 +5,11 @@ Projekt Autoren: Kris Prugarewicz, Lars Baumgartner, Merlin van der Kolk, Romain
 
 Code V1.2
 Changelog:
--API Funktioniert
--Libraries lokal im .lib abgespeichert
--Kursgrabber funktioniert
--JDK ist jetzt von default aus 1.8
--Code hat keine errors mehr, ist startbar
+- API Funktioniert
+- Libraries lokal im .lib abgespeichert
+- Kursgrabber funktioniert
+- JDK ist jetzt von default aus 1.8
+- Code hat keine errors mehr, ist startbar
 
 
 26.08.2021 Commits Changelog
