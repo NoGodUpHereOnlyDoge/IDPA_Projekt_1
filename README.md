@@ -1,6 +1,17 @@
 # IDPA_Projekt_1
 Projekt Autoren: Kris Prugarewicz, Lars Baumgartner, Merlin van der Kolk, Romain Nykyforchyn
 
+
+16.09.2021 Commits Changelog
+
+Code V1.3
+Changelog:
+
+- Libraries lokal im .lib abgespeichert
+- JDK ist jetzt von default aus 1.8
+- Code hat keine errors mehr, ist startbar
+
+
 09.09.2021 Commits Changelog
 
 Code V1.2
