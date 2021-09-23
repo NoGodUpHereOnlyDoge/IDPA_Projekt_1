@@ -2,6 +2,17 @@
 Projekt Autoren: Kris Prugarewicz, Lars Baumgartner, Merlin van der Kolk, Romain Nykyforchyn
 
 
+
+23.09.2021 Commits Changelog
+
+Code V1.4
+Changelog:
+
+- Alte Versionen Archiviert
+- Programm bereit für Deployment
+
+
+
 16.09.2021 Commits Changelog
 
 Code V1.3
