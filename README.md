@@ -2,6 +2,7 @@
 Projekt Autoren: Kris Prugarewicz, Lars Baumgartner, Merlin van der Kolk, Romain Nykyforchyn
 
 
+******************************************************************************************************************************************
 
 23.09.2021 Commits Changelog
 
@@ -12,6 +13,7 @@ Changelog:
 - Programm bereit für Deployment
 
 
+******************************************************************************************************************************************
 
 16.09.2021 Commits Changelog
 
@@ -22,6 +24,7 @@ Changelog:
 - JDK ist jetzt von default aus 1.8
 - Code hat keine errors mehr, ist startbar
 
+******************************************************************************************************************************************
 
 09.09.2021 Commits Changelog
 
