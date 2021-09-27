@@ -7,7 +7,7 @@ Projekt Autoren: Kris Prugarewicz, Lars Baumgartner, Merlin van der Kolk, Romain
 23.09.2021 Changelog
 
 Code V1.4
-Changelog:
+:
 
 - Alte Versionen Archiviert
 - Programm bereit für Deployment
@@ -18,7 +18,7 @@ Changelog:
 16.09.2021 Changelog
 
 Code V1.3
-Changelog:
+:
 
 - Libraries lokal im .lib abgespeichert
 - JDK ist jetzt von default aus 1.8
@@ -29,7 +29,7 @@ Changelog:
 09.09.2021 Changelog
 
 Code V1.2
-Changelog:
+:
 - API Funktioniert
 - Libraries lokal im .lib abgespeichert
 - Kursgrabber funktioniert
@@ -40,16 +40,16 @@ Changelog:
 ******************************************************************************************************************************************
 
 
-26.08.2021 Commits Changelog
+26.08.2021  Changelog
 
 Code V1.1
-Changelog:
+:
 - MVC Model implementiert
 - Files im Code verlinkt
 - Programm nicht startbar
 
 UI Design FXML V2.1
-Changelog:
+:
 - Spinner zu TextField gewechselt
 - Kursanzeige hat 2 Label Ausgangswährung zu CHF und Ausgangswährung zu Zielwährung
 - 3 Output Label anstatt Einem, Umgerechneter Betrag in Ausgangswährung, Umgerechneter Betrag in CHF, Umgerechneter Betrag in Zielwährung.
